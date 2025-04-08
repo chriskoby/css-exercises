@@ -1,4 +1,4 @@
-.first-class, .second-class {
+.first-class {
     background-color: #ff748c ;
     font-family: verdana, "Dejavu sans", sans-serif;
 }
@@ -6,11 +6,10 @@
     color: rgb(0,0,225);
     font-size: 36px;
 }
-.second-class{
+.fzadjuster{
     font-size: 24px;
 }
 #id2{
     background-color: hsl(120,73%,75%);
-    font-size: 24px;
     font-weight: 700;
 }
